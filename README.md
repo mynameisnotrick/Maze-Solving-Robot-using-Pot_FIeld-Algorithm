@@ -1,1 +1,1 @@
-# Maze-Solving-Robot-using-Pot_FIeld-algorithm
+# Maze-Solving-Robot-using-Pot_FIeld-Algorithm
